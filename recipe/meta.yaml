@@ -1,6 +1,6 @@
 {% set name = "seamm-util" %}
-{% set version = "2021.5.6" %}
-{% set sha256 = "6385ee460f8a5ca13199fa97bee9fa6641d4c0ef258ac2bd790a934b75e8dc03" %}
+{% set version = "2021.6.2" %}
+{% set sha256 = "e5b4791b5f6584c5bfd68d91712d41f2b67df11f00caad8c2e4f3faa5b04ef7b" %}
 
 
 package:
@@ -36,7 +36,7 @@ test:
 
 about:
   home: https://github.com/molssi-seamm/seamm_util
-  summary: "Utility classes and functions for the SEAMM environment."
+  summary: Utility classes and functions for the SEAMM environment.
   license: BSD-3-Clause
   license_family: BSD
   license_file: LICENSE
