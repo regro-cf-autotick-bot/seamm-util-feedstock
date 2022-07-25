@@ -8,7 +8,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/s/seamm-util/seamm_util-{{ version }}.tar.gz
+  url: https://files.pythonhosted.org/packages/41/fa/10890cdc358dee19a5c3c7cf194463884250ee08bacde3d4babb52ecdd7e/seamm_util-2022.7.24.tar.gz
   sha256: {{ sha256 }}
 
 build:
