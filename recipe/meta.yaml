@@ -1,6 +1,6 @@
 {% set name = "seamm-util" %}
-{% set version = "2022.7.24" %}
-{% set sha256 = "1f0bb2c26649d41d4b49abde1266621d9c659638afd03b43d4364cd4607e0626" %}
+{% set version = "2022.10.19" %}
+{% set sha256 = "dcb3070ffda4bd6e7433df1635aeb9049e3adb4a9cb136392ae7757540f6fd86" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://files.pythonhosted.org/packages/41/fa/10890cdc358dee19a5c3c7cf194463884250ee08bacde3d4babb52ecdd7e/seamm_util-2022.7.24.tar.gz
+  url: https://pypi.io/packages/source/m/molsystem/seamm-util-{{ version }}.tar.gz
   sha256: {{ sha256 }}
 
 build:
